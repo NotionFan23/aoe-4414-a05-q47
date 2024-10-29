@@ -1,4 +1,13 @@
-# import Python modules
+# Conv_ops.py
+# Usage: python3 Conv_ops.py c_in h_in w_in n_filt h_filt w_filt s p
+# Text explaining script usage
+# Parameters: c_in h_in w_in n_filt h_filt w_filt s p
+# Output:
+# A description of the script output
+#
+# Written by Devon Throckmorton
+
+# # import Python modules
 import math # math module
 import sys # argv
 # initialize script arguments
